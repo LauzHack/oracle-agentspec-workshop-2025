@@ -17,8 +17,6 @@ pip install --upgrade pip
 
 (2) Install `pyagentspec` from source
 
-The 
-
 ```bash
 git clone git@github.com:oracle/agent-spec.git
 cd agent-spec/pyagentspec
