@@ -1,9 +1,11 @@
 # Run AI Agents Anywhere with Open Agent Specification
 
-This repository contains material presented during the LauzHack workshop on 
+This repository contains material presented during the LauzHack workshop on
 Thursday 13th November 2025 ([event page](https://luma.com/estildp0)). The
 workshop presentation was prepared and given by Oracle about the Open Source
 project [Open Agent Specs](https://github.com/oracle/agent-spec).
+
+The recording of the workshop is available [here](https://youtu.be/--21Vs7HU_A).
 
 ## Installation
 
